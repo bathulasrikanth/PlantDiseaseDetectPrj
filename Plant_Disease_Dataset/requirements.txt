@@ -1,7 +1,5 @@
-tensorflow==2.10.0
 streamlit
-pandas
 numpy
-scikit-learn
-torch       # If using PyTorch
-opencv-python  # If using OpenCV for image processing
+pandas
+tensorflow  # If using deep learning
+opencv-python  # If using image processing
